@@ -5,4 +5,3 @@ python-dotenv
 pandas
 openpyxl
 gunicorn
-psycopg2-binary  
